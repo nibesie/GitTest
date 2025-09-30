@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Geheime Daten
+src/secret_data.txt
